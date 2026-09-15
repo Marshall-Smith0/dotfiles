@@ -35,3 +35,6 @@ export HERD_PHP_83_INI_SCAN_DIR="/Users/marshallsmith/Library/Application Suppor
 
 # alias
 alias php="herd php"
+alias cdsf="cd && cd /Users/marshallsmith/projects/ncic-schoolhouse-frontend/"
+alias cdsb="cd && cd /Users/marshallsmith/projects/ncic-schoolhouse2-backend/"
+
